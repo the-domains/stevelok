@@ -1,6 +1,6 @@
 name: Stevelok
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 1
 typography_spectrum: 0.48919
 title: Exploration
 cta:
@@ -23,7 +23,7 @@ color:
     - '#6a88ab'
     - '#cdd9e8'
   brandStrength: 0
-  lightness: 0
-  saturation: 0
-  rhythmicContrast: 0.25
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
