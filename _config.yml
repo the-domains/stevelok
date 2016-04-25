@@ -1,7 +1,7 @@
 name: Stevelok
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.37176
+typography_spectrum: 0.48919
 title: Exploration
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
     - '#ffffff'
-    - '#555259'
-    - '#a8a6ab'
-    - '#847f85'
-  brandStrength: 0.75
-  lightness: 0
-  saturation: 1
-  rhythmicContrast: 0
+    - '#922850'
+    - '#01336e'
+    - '#6a88ab'
+    - '#cdd9e8'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0
+  rhythmicContrast: 0.5
 purpose: []
